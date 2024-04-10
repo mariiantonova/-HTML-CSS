@@ -31,7 +31,8 @@ body {
 }
 
 .links {
-  width: float right;
+  width: 330px;
+  float: right;
   margin-bottom: 40px;
 }
 
