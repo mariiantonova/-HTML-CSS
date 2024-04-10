@@ -34,14 +34,14 @@ body {
 
 .links {
   width: 350px;
-  margin-bottom: 40px;
+  margin-bottom: 20px;
 }
 
 .links__header {
   font-family: "Helvetica Neue";
   font-size: 24px;
   line-height: 1.4;
-  margin: 0 0 5px 0;
+  margin: 0 0 15px 0;
 }
 
 .links__container {
@@ -73,7 +73,7 @@ body {
   padding: 0px 0px 10px;
   gap: 30px;
   border-bottom: 1px solid #dadada;
-  width: 280px;
+  width: 300px;
 }
 
 .links__link:last-child {
