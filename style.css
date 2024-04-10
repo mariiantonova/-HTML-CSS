@@ -14,7 +14,8 @@ body {
 
 .header__avatar {
   border-radius: 50%;
-  justify-content: flex-start;}
+  margin-left: -20%
+}
 
 .header__title {
   margin: 30px 0 10px 0;
