@@ -9,7 +9,7 @@ body {
 }
 
 .header {
-  margin: 40px 0;
+  margin: 20px 0;
 }
 
 .header__avatar {
@@ -41,7 +41,7 @@ body {
   font-family: "Helvetica Neue";
   font-size: 24px;
   line-height: 1.4;
-  margin: 0 0 0 0;
+  margin: 0 0 15px 0;
 }
 
 .links__container {
